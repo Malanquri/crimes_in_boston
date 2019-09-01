@@ -22,9 +22,9 @@ Crime is a normal part of societies. Many recourses are assigned to monitor, add
 <a name="usedlibraries"></a>
 ### Used Libraries:
 In this project we used the following libraries:
-    - pandas
-    - matplotlib
-    - numpy
+- 'pandas'
+- 'matplotlib'
+- 'numpy'
 
 <a name="summary"></a>
 ### Summary
